@@ -11,6 +11,8 @@ Digital Forensics laboratory experiments prepared from my own lab files.
 | EXP-03 | Password Capturing Using Wireshark |
 | EXP-04 | Analyze Email Headers and Detect Email Spoofing Using MHA |
 | EXP-05 | Use Autopsy to Create a Case and Import Evidence |
+| EXP-06 | somrthing
+
 
 ## Files
 
