@@ -8,7 +8,7 @@ Digital Forensics laboratory experiments prepared from my own lab files.
 
 | Experiment | Topic | PDF |
 |---|---|---|
-| 99240040718(EXP01) | Evidence Acquisition Using AccessData FTK Imager | [View PDF](99240040170%20exp%201%20.pdf.pdf) |
+| 99240040718(EXP01) | Evidence Acquisition Using AccessData FTK Imager | [View PDF](9[9240040170%20exp%201%20.pdf.pdf](https://github.com/yaswanth4667/df-lab-experiments/blob/main/99240040718(EXP01).pdf)) |
 | 99240040718(EXP02) | Recover Deleted or Damaged Files Using TestDisk | [View PDF](df%20exp%202.pdf) |
 | 99240040718(EXP03) | Password Capturing Using Wireshark | [View PDF](99240040170%20exp%203%20(1).pdf) |
 | 99240040718EXP04 | Analyze Email Headers and Detect Email Spoofing Using MHA | [View PDF](df%20exp%204.pdf) |
